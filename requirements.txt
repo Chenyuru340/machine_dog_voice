@@ -1,0 +1,8 @@
+# 核心依赖（版本和你的环境完全匹配）
+pyaudio==0.2.14
+vosk==0.3.45
+volcenginesdkarkruntime>=0.1.0
+comtypes>=1.1.15
+
+# 可选依赖（用于打包成exe）
+pyinstaller==6.3.0
