@@ -4,7 +4,7 @@ from pathlib import Path
 
 # ==================== 火山方舟配置 ====================
 ARK_BASE_URL = "https://ark.cn-beijing.volces.com/api/v3"
-ARK_API_KEY = "d6aa7078-a06c-4891-bf2c-bbb6a9533941"  # 其他人可以替换为自己的KEY
+ARK_API_KEY = "..."  # 其他人可以替换为自己的KEY
 DOUBAO_MODEL = "ep-20260203161432-bvrtc"              # 替换为目标模型ID
 
 # ==================== 文本/语音参数 ====================
